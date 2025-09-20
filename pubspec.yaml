@@ -1,7 +1,9 @@
 name: omni_media_picker
 description: "A Flutter plugin to capture multiple media from the device."
 version: 0.1.0
-homepage:
+homepage: https://github.com/tushshah4442/omni_media_picker.git
+repository: https://github.com/tushshah4442/omni_media_picker.git
+issue_tracker: https://github.com/tushshah4442/omni_media_picker/issues
 
 environment:
   sdk: ^3.8.1
