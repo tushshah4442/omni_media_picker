@@ -36,7 +36,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  omni_media_picker: ^0.0.1
+  omni_media_picker: ^0.1.0
 ```
 
 Then run:
